@@ -1,0 +1,12 @@
+print("list")
+list=[1,2,"abc",3,"xyz",2,3]
+print(list)
+print("\nDictionary")
+d1={"a":1,"b":2,"c":3}
+print(d1)
+print("\ntuple")
+tuple=(1,2,3,4,5)
+print(tuple)
+print("\nset")
+s={1,1,2,2,3,3,4,4}
+print(s)
